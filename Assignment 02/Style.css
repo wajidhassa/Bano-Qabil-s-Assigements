@@ -1,0 +1,1550 @@
+body{
+    background-image: linear-gradient(to right, rgb(54, 50, 50), rgb(112, 107, 107));
+
+}
+h1{ 
+text-align: center;
+font-family: cursive;
+font-size: 70px;
+}
+
+.table{
+    width: 100px; 
+    margin-top: 40px; 
+    text-align: center ;
+    font-size: 10px;
+    font-family: cursive;
+    font-weight: 700;
+    background-color: transparent;
+    border-spacing: 10px;
+    border-radius: 7px;
+}
+
+.table:hover{
+}
+
+.E1{
+    background-color:#c0d7f0; 
+    border-color:#8ca8d6;
+    color: #245386;
+    border-radius: 7px ;
+}
+.E1:hover{
+    scale: 1.4;
+    color: #245386;
+    background-color:#7db0e7 ;
+}
+
+.E2{
+    background-color: #c4a2cc; 
+    border-color: #ab92c6;
+    color: #8661ad;
+    border-radius: 7px;
+}
+
+.E2:hover{
+    scale: 1.4;
+    color:#7c1ddb;
+    background-color:#b092cf;
+}
+
+.E3{
+    background-color:#f7aac0; 
+    border-color: #f490a3;
+    color:#e05d75;
+    border-radius: 7px ;
+}
+.E3:hover{
+    scale: 1.4;
+    color: #d83654;
+    background-color:#f0889b ;
+}
+
+.E4{
+    background-color: #f5cc90; 
+    border-color:#fac280;
+    color:#df9c51;
+    border-radius: 7px;
+}
+
+.E4:hover{
+    scale: 1.4;
+    color:#f59f3c;
+    background-color:#f8c387 ;
+}
+
+.E5{
+    background-color:#93d9f5; 
+    border-color: #44c7ee;
+    color: #0e7fa1;
+    border-radius: 7px ;
+}
+.E5:hover{
+    scale: 1.4;
+    color:  #046b8a;
+    background-color: #07bbf1;
+}
+
+.E6{
+    background-color: #b2c7dd; 
+    border-color:#7a85af;
+    color: #596bb1;
+    border-radius: 7px;    
+}
+
+.E6:hover{
+    scale: 1.4;
+    color: #7b8ac5;
+    background-color:#b4bcdf;
+}
+
+.E7{
+    background-color: #b2c7dd; 
+    border-color:#7a85af;
+    color: #596bb1;
+    border-radius: 7px;    
+}
+
+.E7:hover{
+    scale: 1.4;
+    color: #7b8ac5;
+    background-color:#b4bcdf;
+}
+
+.E8{
+    background-color: #b2c7dd; 
+    border-color:#7a85af;
+    color: #596bb1;
+    border-radius: 7px;    
+}
+
+.E8:hover{
+    scale: 1.4;
+    color: #7b8ac5;
+    background-color:#b4bcdf;
+}
+
+.E9{
+    background-color:#c1c1c5; 
+    border-color: #90b7e0;
+    color:#7d7c81;
+    border-radius: 7px ;
+}
+.E9:hover{
+    scale: 1.4;
+    color:#7a797e;
+    background-color:#e0e0f0;
+}
+
+.E10{
+    background-color: #c4a2cc; 
+    border-color: #ab92c6;
+    color: #8661ad;
+    border-radius: 7px;
+}
+
+.E10:hover{
+    scale: 1.4;
+    color:#7c1ddb;
+    background-color:#b092cf;
+}
+
+.E11{
+    background-color:#f7aac0; 
+    border-color: #f490a3;
+    color:#e05d75;
+    border-radius: 7px ;
+}
+.E11:hover{
+    scale: 1.4;
+    color: #d83654;
+    background-color:#f0889b ;
+}
+
+.E12{
+    background-color: #f5cc90; 
+    border-color:#fac280;
+    color:#df9c51;
+    border-radius: 7px;
+}
+
+.E12:hover{
+    scale: 1.4;
+    color:#f59f3c;
+    background-color:#f8c387 ;
+}
+
+.E13{
+    background-color: #b0f0bb; 
+    border-color: #71c98c;
+    color: #35d665;
+    border-radius: 7px ;
+}
+.E13:hover{
+    scale: 1.4;
+    color: #64cc83;
+    background-color:#81f795 ;
+}
+
+.E14{
+    background-color:#93d9f5; 
+    border-color: #44c7ee;
+    color: #0e7fa1;
+    border-radius: 7px ;
+}
+.E14:hover{
+    scale: 1.4;
+    color:  #046b8a;
+    background-color: #07bbf1;
+}
+
+.E15{
+    background-color: #b2c7dd; 
+    border-color:#7a85af;
+    color: #596bb1;
+    border-radius: 7px;    
+}
+
+.E15:hover{
+    scale: 1.4;
+    color: #7b8ac5;
+    background-color:#b4bcdf;
+}
+.E16{
+    background-color: #b2c7dd; 
+    border-color:#7a85af;
+    color: #596bb1;
+    border-radius: 7px;    
+}
+
+.E16:hover{
+    scale: 1.4;
+    color: #7b8ac5;
+    background-color:#b4bcdf;
+}
+
+.E17{
+    background-color:#c1c1c5; 
+    border-color: #90b7e0;
+    color:#7d7c81;
+    border-radius: 7px ;
+}
+
+.E17:hover{
+    scale: 1.4;
+    color:#7a797e;
+    background-color:#e0e0f0;
+}
+
+
+.E18{
+    background-color: #c4a2cc; 
+    border-color: #ab92c6;
+    color: #8661ad;
+    border-radius: 7px;
+}
+
+.E18:hover{
+    scale: 1.4;
+    color:#7c1ddb;
+    background-color:#b092cf;
+}
+
+
+.E19{
+    background-color:#f7aac0; 
+    border-color: #f490a3;
+    color:#e05d75;
+    border-radius: 7px ;
+}
+.E19:hover{
+    scale: 1.4;
+    color: #d83654;
+    background-color:#f0889b ;
+}
+
+.E20{
+    background-color: #f5cc90; 
+    border-color:#fac280;
+    color:#df9c51;
+    border-radius: 7px;
+}
+
+.E20:hover{
+    scale: 1.4;
+    color:#f59f3c;
+    background-color:#f8c387 ;
+}
+
+.E21{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E21:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E22{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E22:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E23{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E23:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E24{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E24:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E25{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E25:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E26{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E26:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E27{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E27:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E28{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E28:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E29{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E29:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E30{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E30:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E31{
+    background-color: #b0f0bb; 
+    border-color: #71c98c;
+    color: #35d665;
+    border-radius: 7px ;
+}
+.E31:hover{
+    scale: 1.4;
+    color: #64cc83;
+    background-color:#81f795 ;
+}
+
+.E32{
+    background-color:#93d9f5; 
+    border-color: #44c7ee;
+    color: #0e7fa1;
+    border-radius: 7px ;
+}
+.E32:hover{
+    scale: 1.4;
+    color:  #046b8a;
+    background-color: #07bbf1;
+}
+
+.E33{
+    background-color:#93d9f5; 
+    border-color: #44c7ee;
+    color: #0e7fa1;
+    border-radius: 7px ;
+}
+.E33:hover{
+    scale: 1.4;
+    color:  #046b8a;
+    background-color: #07bbf1;
+}
+
+.E34{
+    background-color: #b2c7dd; 
+    border-color:#7a85af;
+    color: #596bb1;
+    border-radius: 7px;    
+}
+
+.E34:hover{
+    scale: 1.4;
+    color: #7b8ac5;
+    background-color:#b4bcdf;
+}
+
+.E35{
+    background-color:#c1c1c5; 
+    border-color: #90b7e0;
+    color:#7d7c81;
+    border-radius: 7px ;
+}
+.E35:hover{
+    scale: 1.4;
+    color:#7a797e;
+    background-color:#e0e0f0;
+}
+
+
+.E36{
+    background-color: #c4a2cc; 
+    border-color: #ab92c6;
+    color: #8661ad;
+    border-radius: 7px;
+}
+
+.E36:hover{
+    scale: 1.4;
+    color:#7c1ddb;
+    background-color:#b092cf;
+}
+
+.E37{
+    background-color:#f7aac0; 
+    border-color: #f490a3;
+    color:#e05d75;
+    border-radius: 7px ;
+}
+.E37:hover{
+    scale: 1.4;
+    color: #d83654;
+    background-color:#f0889b ;
+}
+
+.E38{
+    background-color: #f5cc90; 
+    border-color:#fac280;
+    color:#df9c51;
+    border-radius: 7px;
+}
+
+.E38:hover{
+    scale: 1.4;
+    color:#f59f3c;
+    background-color:#f8c387 ;
+}
+
+.E39{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E39:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E40{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E40:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E41{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E41:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E42{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E42:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E43{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E43:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E44{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E44:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E45{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E45:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E46{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E46:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E47{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E47:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E48{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E48:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E49{
+    background-color: #b0f0bb; 
+    border-color: #71c98c;
+    color: #35d665;
+    border-radius: 7px ;
+}
+.E49:hover{
+    scale: 1.4;
+    color: #64cc83;
+    background-color:#81f795 ;
+}
+
+.E50{
+    background-color: #b0f0bb; 
+    border-color: #71c98c;
+    color: #35d665;
+    border-radius: 7px ;
+}
+.E50:hover{
+    scale: 1.4;
+    color: #64cc83;
+    background-color:#81f795 ;
+}
+
+.E51{
+    background-color:#93d9f5; 
+    border-color: #44c7ee;
+    color: #0e7fa1;
+    border-radius: 7px ;
+}
+.E51:hover{
+    scale: 1.4;
+    color:  #046b8a;
+    background-color: #07bbf1;
+}
+
+.E52{
+    background-color:#93d9f5; 
+    border-color: #44c7ee;
+    color: #0e7fa1;
+    border-radius: 7px ;
+}
+.E52:hover{
+    scale: 1.4;
+    color:  #046b8a;
+    background-color: #07bbf1;
+}
+
+.E53{
+    background-color:#c1c1c5; 
+    border-color: #90b7e0;
+    color:#7d7c81;
+    border-radius: 7px ;
+}
+.E53:hover{
+    scale: 1.4;
+    color:#7a797e;
+    background-color:#e0e0f0;
+}
+
+
+.E54{
+    background-color: #c4a2cc; 
+    border-color: #ab92c6;
+    color: #8661ad;
+    border-radius: 7px;
+}
+
+.E54:hover{
+    scale: 1.4;
+    color:#7c1ddb;
+    background-color:#b092cf;
+}
+
+.E55{
+    background-color:#f7aac0; 
+    border-color: #f490a3;
+    color:#e05d75;
+    border-radius: 7px ;
+}
+.E55:hover{
+    scale: 1.4;
+    color: #d83654;
+    background-color:#f0889b ;
+}
+
+.E56{
+    background-color: #f5cc90; 
+    border-color:#fac280;
+    color:#df9c51;
+    border-radius: 7px;
+}
+
+.E56:hover{
+    scale: 1.4;
+    color:#f59f3c;
+    background-color:#f8c387 ;
+}
+
+.E57{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E57:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E58{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E58:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E59{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E59:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E60{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E60:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E61{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E61:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E62{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E62:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E63{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E63:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E64{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E64:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E65{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E65:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E66{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E66:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E67{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E67:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E68{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E68:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E69{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E69:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E70{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E70:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E71{
+    background-color:#e7dad4; 
+    border-color: #c3a299;
+    color: #b89287;
+    border-radius: 7px ;
+}
+.E71:hover{
+    scale: 1.4;
+    color:#af8579;
+    background-color:#d1b3ab ;
+}
+
+.E72{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E72:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E73{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E73:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E74{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E74:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E75{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E75:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E76{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E76:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E77{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E77:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E78{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E78:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E79{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E79:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E80{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E80:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E81{
+    background-color: #b0f0bb; 
+    border-color: #71c98c;
+    color: #35d665;
+    border-radius: 7px ;
+}
+.E81:hover{
+    scale: 1.4;
+    color: #64cc83;
+    background-color:#81f795 ;
+}
+.E82{
+    background-color: #b0f0bb; 
+    border-color: #71c98c;
+    color: #35d665;
+    border-radius: 7px ;
+}
+.E82:hover{
+    scale: 1.4;
+    color: #64cc83;
+    background-color:#81f795 ;
+}
+.E83{
+    background-color: #b0f0bb; 
+    border-color: #71c98c;
+    color: #35d665;
+    border-radius: 7px ;
+}
+.E83:hover{
+    scale: 1.4;
+    color: #64cc83;
+    background-color:#81f795 ;
+}
+.E84{
+    background-color:#93d9f5; 
+    border-color: #44c7ee;
+    color: #0e7fa1;
+    border-radius: 7px ;
+}
+.E84:hover{
+    scale: 1.4;
+    color:  #046b8a;
+    background-color: #07bbf1;
+}
+.E85{
+    background-color:#c1c1c5; 
+    border-color: #90b7e0;
+    color:#7d7c81;
+    border-radius: 7px ;
+}
+.E85:hover{
+    scale: 1.4;
+    color:#7a797e;
+    background-color:#e0e0f0;
+}
+
+.E86{
+    background-color: #c4a2cc; 
+    border-color: #ab92c6;
+    color: #8661ad;
+    border-radius: 7px;
+}
+
+.E86:hover{
+    scale: 1.4;
+    color:#7c1ddb;
+    background-color:#b092cf;
+}
+ 
+.E87{
+    background-color:#f7aac0; 
+    border-color: #f490a3;
+    color:#e05d75;
+    border-radius: 7px ;
+}
+.E87:hover{
+    scale: 1.4;
+    color: #d83654;
+    background-color:#f0889b ;
+}
+
+.E88{
+    background-color: #f5cc90; 
+    border-color:#fac280;
+    color:#df9c51;
+    border-radius: 7px;
+}
+
+.E88:hover{
+    scale: 1.4;
+    color:#f59f3c;
+    background-color:#f8c387 ;
+}
+.E89{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E89:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E90{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E90:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E91{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E91:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E92{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E92:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E93{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E93:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E94{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E94:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E95{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E95:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E96{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E96:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E97{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E97:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E98{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E98:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E99{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E99:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E100{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E100:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E101{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E101:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E102{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E102:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E103{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E103:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
+
+.E104{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E104:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E105{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E105:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E106{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E106:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E107{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E107:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E108{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E108:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E109{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E109:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E110{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E110:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E111{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E111:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E112{
+    background-color: #def3a0; 
+    border-color: #d7ee91;
+    color: #aedf1c;
+    border-radius: 7px;
+}
+
+.E112:hover{
+    scale: 1.4;
+    color:  #aedf1c ;
+    background-color: #d3ee81 ;
+}
+
+.E113{
+    background-color: #b0f0bb; 
+    border-color: #71c98c;
+    color: #35d665;
+    border-radius: 7px ;
+}
+.E113:hover{
+    scale: 1.4;
+    color: #64cc83;
+    background-color:#81f795 ;
+}
+.E114{
+    background-color: #b0f0bb; 
+    border-color: #71c98c;
+    color: #35d665;
+    border-radius: 7px ;
+}
+.E114:hover{
+    scale: 1.4;
+    color: #64cc83;
+    background-color:#81f795 ;
+}
+.E115{
+    background-color: #b0f0bb; 
+    border-color: #71c98c;
+    color: #35d665;
+    border-radius: 7px ;
+}
+.E115:hover{
+    scale: 1.4;
+    color: #64cc83;
+    background-color:#81f795 ;
+}
+.E116{
+    background-color: #b0f0bb; 
+    border-color: #71c98c;
+    color: #35d665;
+    border-radius: 7px ;
+}
+.E116:hover{
+    scale: 1.4;
+    color: #64cc83;
+    background-color:#81f795 ;
+}
+.E117{
+    background-color:#c1c1c5; 
+    border-color: #90b7e0;
+    color:#7d7c81;
+    border-radius: 7px ;
+}
+.E117:hover{
+    scale: 1.4;
+    color:#7a797e;
+    background-color:#e0e0f0;
+}
+
+.E118{
+    background-color: #c4a2cc; 
+    border-color: #ab92c6;
+    color: #8661ad;
+    border-radius: 7px;
+}
+
+.E118:hover{
+    scale: 1.4;
+    color:#7c1ddb;
+    background-color:#b092cf;
+}
+
+.E57-71{
+    background-color: #e7dad4; 
+    border-color: #e7dad4;
+    color: #c3a299;
+    border-radius: 7px;
+
+}
+
+.E57-71:hover{
+    scale: 1.4;
+    color: #c3a299;
+    background-color:#e7dad4 ;
+}
+ 
+.E89-103{
+    background-color: #facfc1; 
+    border-color: #da9b8a;
+    color: #dd8972;
+    border-radius: 7px;
+
+}
+
+.E89-103:hover{
+    scale: 1.4;
+    color:#c28b7c;
+    background-color:#dfb4a8 ;
+}
